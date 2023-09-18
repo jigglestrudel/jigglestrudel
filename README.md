@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jigglestrudel
-- 🌱 I’m currently learning Computer Science on Gdansk Tech
+- 🌱 I am a Computer Science student on Gdansk Tech
 
 <!---
 jigglestrudel/jigglestrudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
