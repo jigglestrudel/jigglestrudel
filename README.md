@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at Gdańsk Tech!</h3>
 
 <h4 align="center"> 📫 You can reach me on <a href="https://www.linkedin.com/in/tomasz-kr%C4%99pa-6b31a1268" >LinkedIn</a> </h4>
-<h4 align="center"> 📫 as well as by email **tomaszkrepa@outlook.com** </h4>
+<h4 align="center"> 📫 as well as by email <bold>tomaszkrepa@outlook.com</bold> </h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
