@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomasz Krępa</h1>
 <h3 align="center">A Computer Science student at Gdańsk Tech!</h3>
 
-- 📫 How to reach me **tomaszkrepa@outlook.com**
+#### 📫 How to reach me: **tomaszkrepa@outlook.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
