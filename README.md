@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomasz Krępa</h1>
 <h3 align="center">A Computer Science student at Gdańsk Tech!</h3>
 
-<h4 align="center"> 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/tomasz-kr%C4%99pa-6b31a1268/)** </h4>
+<h4 align="center"> 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/tomasz-kr%C4%99pa-6b31a1268)** </h4>
 <h4 align="center"> 📫 as well as by email **tomaszkrepa@outlook.com** </h4>
 
 
